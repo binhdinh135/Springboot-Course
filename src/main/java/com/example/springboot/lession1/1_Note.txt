@@ -1,0 +1,2 @@
+Mục tiêu của lession:
+- Tạo ra các bean.

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>Hello World</title>
+    </head>
+    <body>
+
+    <div th:object="${person}">
+        <!-- th:object tồn tại trong phạm vi của thẻ div này -->
+
+        <!-- Lấy ra tên của đối tượng person -->
+        <p>Name: <span th:text="*{name}"></span>.</p>
+        <!-- Lấy ra address của đối tượng address -->
+        <p>Address: <span th:text="*{email}"></span>.</p>
+        <!-- Lấy ra address của đối tượng address -->
+        <p>Age: <span th:text="*{age}"></span>.</p>
+
+    </div>
+
+    </body>
+</html>
