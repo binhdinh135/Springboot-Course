@@ -1,4 +1,4 @@
-package com.example.springboot.lession2;
+package com.example.springboot.lession0.lession2;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;

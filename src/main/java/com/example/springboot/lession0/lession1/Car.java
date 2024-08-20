@@ -1,6 +1,4 @@
-package com.example.springboot.lession1;
-
-import org.springframework.stereotype.Component;
+package com.example.springboot.lession0.lession1;
 
 public class Car {
 

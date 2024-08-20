@@ -1,4 +1,4 @@
-package com.example.springboot.lession5_request_post_model;
+package com.example.springboot.lession0.lession5_request_post_model;
 
 import lombok.*;
 

@@ -1,4 +1,4 @@
-package com.example.springboot.lession3configbean;
+package com.example.springboot.lession0.lession3configbean;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

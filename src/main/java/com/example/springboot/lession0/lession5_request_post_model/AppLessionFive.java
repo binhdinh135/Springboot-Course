@@ -1,6 +1,5 @@
-package com.example.springboot.lession5_request_post_model;
+package com.example.springboot.lession0.lession5_request_post_model;
 
-import com.example.springboot.lession4controller.AppLessFour;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

@@ -1,8 +1,6 @@
-package com.example.springboot.lession1;
+package com.example.springboot.lession0.lession1;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
