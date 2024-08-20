@@ -1,15 +1,14 @@
-package com.example.springboot.lession1;
+package com.example.springboot.lession0.lession1;
 
 import com.example.springboot.SpringBootCourseApplication;
-import com.example.springboot.lession1.other.OtherGirl;
+import com.example.springboot.lession0.lession1.other.OtherGirl;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
-import org.springframework.context.annotation.ComponentScan;
 
 //@ComponentScan("com.example.springboot.lession1.other")
 @SpringBootApplication(
-//        scanBasePackages = "com.example.springboot.lession1.other"
+        scanBasePackages = "com.example.springboot.lession0.lession1.other"
 )
 public class LessonOneApplication {
     public static void main(String[] args) {

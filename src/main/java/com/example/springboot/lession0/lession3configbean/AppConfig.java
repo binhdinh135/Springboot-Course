@@ -1,14 +1,13 @@
-package com.example.springboot.lession3configbean;
+package com.example.springboot.lession0.lession3configbean;
 
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class AppConfig {
 
-    @Value("${binhdc.mysql.url}")
-    String myUrl;
+//    @Value("${binhdc.mysql.url}")
+    String myUrl = "https:localhost.";
 
     @Bean
     SimpleBean simpleBeanConfigure() {

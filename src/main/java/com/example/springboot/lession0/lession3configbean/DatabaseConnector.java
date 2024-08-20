@@ -1,4 +1,4 @@
-package com.example.springboot.lession3configbean;
+package com.example.springboot.lession0.lession3configbean;
 
 import lombok.Getter;
 import lombok.Setter;
