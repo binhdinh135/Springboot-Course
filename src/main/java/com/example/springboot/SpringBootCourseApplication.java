@@ -1,7 +1,7 @@
 package com.example.springboot;
 
-import com.example.springboot.lession1.*;
-import com.example.springboot.lession2.*;
+//import com.example.springboot.lession1.*;
+//import com.example.springboot.lession2.*;
 
 import com.example.springboot.lession3mvc.entity.GirlMvc;
 import com.example.springboot.lession3mvc.service.GirlService;
